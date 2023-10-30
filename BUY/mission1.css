@@ -1,0 +1,177 @@
+span{
+    color: blueviolet;
+}
+h1{
+    padding-top: 30px;
+    padding-left: 37px;
+}
+.card{
+    width: 300px;
+    border: 2px solid black;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 1px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+}
+h3{
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#mobiles{
+    display: flex;
+    justify-content: space-evenly;
+    flex-basis: 4;
+    flex-wrap: wrap;
+}
+#buylinks{
+    display: flex;
+    justify-content: space-evenly;
+    flex-basis: 4;
+    flex-wrap: wrap;
+}
+img{
+    width: 270px;
+    border-radius: 20px;
+
+}
+#d1{
+    width: 270px;
+    height: 181px;
+    border-radius: 20px;
+}
+#d2 {
+    width: 270px;
+    height: 181px;
+    border-radius: 20px;
+
+}
+#d3{
+    width: 270px;
+    height: 181px;
+    border-radius: 20px;
+}
+#d4{
+   width: 270px;
+    height: 181px;
+    border-radius: 20px ;
+}
+#d5 {
+    width: 270px;
+    height: 181px;
+    border-radius: 20px ;
+}
+.h3c{
+    color: black;
+    
+}
+
+.h4c{
+    color: black;
+    padding-top: 15px;
+}
+.h5c{
+    color: black;
+    padding-top: 18px;
+}
+.h6c{
+    color: black;
+}
+.h7c{
+    color: black;
+    padding-bottom: 3px;
+}
+
+.h3c:hover{
+    color: red;
+}
+.h4c:hover{
+    color: red;
+}
+.h5c:hover{
+    color: red;
+}
+.h6c:hover{
+    color: red;
+}
+.h7c:hover{
+    color: red;
+    
+}
+.link1:hover{
+    color: red;
+}
+.link2:hover{
+    color: red;
+}
+
+    
+.card1{
+    width: 250px;
+    border: 2px solid black;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 1px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+#buylinks{
+    display: flex;
+    justify-content: space-evenly;
+    flex-basis: 4;
+    flex-wrap: wrap;
+}
+#b1{
+    width: 270px;
+    height: 270px;
+}
+#b2{
+    width: 170px;
+    height: 235px;
+    padding-top: 20px;
+}
+#b3{
+    width: 150px;
+    height: 235px;
+  
+}
+#b5{
+    width:170px;
+    height: 240px;
+    padding: 20px;
+}
+.link1{
+    color: blue;
+}
+.hb1{
+    color: black;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-right: 20px;
+}
+#b3{
+    padding-top: 20px;
+}
+#b4{
+    padding-top: 8px;
+}
+
+#mylinks{
+   
+
+    padding-top: 80px;
+    display: flex;
+    padding-left: 80px;
+}
+#linkedin1{
+width: 50px;
+}
+#git{
+    padding-left: 5px;
+    width: 50px;
+}
